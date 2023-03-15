@@ -5,3 +5,11 @@ I've been working on [The Odin Project](https://www.theodinproject.com/) for a b
 ## Day 2: March 13th, 2023
 
 I started working on the next TOP project, which is about making a calculator. I haven't finished it yet, but I've made around 30-40% progress so far (HTML/CSS are basically done, starting on JS for the functions). Additionally, I've been working on [my PA](https://github.com/CaoAssignments/cse12-wi23-pa8-BinarySearchTree-Sorting-starter) for CSE 12 (yup, this counts too!), which involves implementing a binary search tree. Finally, an opportunity to use recursion!
+
+## Day 3: March 14th, 2023
+
+Today, I mostly focused my efforts on my PA. I finished off the main bulk of the PA previously (impelementing that actual BST) so today I wrote most of the tests. Additionally, if it counts (I'm half-counting it), I finished my preparation for the CSE 15L skill demo, which involved starting a Java server, fixing a JUnit test, and reading up on some Bash to find out how to retrieve a nested file. Tomorrow, I'll probably finish up writing the tests.
+
+## Day 4: March 15th, 2023
+
+I finished writing the tests today, although it took much longer than I expected. I also styled the last bit of my PA, but I usually try to style my program as I go.
