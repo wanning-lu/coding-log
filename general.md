@@ -12,4 +12,4 @@ Today, I mostly focused my efforts on my PA. I finished off the main bulk of the
 
 ## Day 4: March 15th, 2023
 
-I finished writing the tests today, although it took much longer than I expected. I also styled the last bit of my PA, but I usually try to style my program as I go.
+I finished writing the tests today, although it took much longer than I expected. I also styled the last bit of my PA, but I usually try to style my program as I go. I also just completed around 80-90% of my calculator project; all of the functions work, as well as the clear button. However, implementing the ability to use decimal points is still a WIP...
