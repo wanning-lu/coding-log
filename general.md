@@ -1,4 +1,4 @@
-[Week 1](#day-1:-march-12th,-2023)
+[Week 1](#day-1-march-12th-2023)
 
 ## Day 7: March 18th 2023
 
