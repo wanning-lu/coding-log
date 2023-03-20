@@ -1,6 +1,10 @@
 [Week 1](#day-1-march-12th-2023)
 
-## Day 7: March 18th 2023
+## Day 8: March 19th, 2023
+
+I finally finished the Django lecture! During the rest of the lecture video, I learned more about Django logic within HTML files, as well as several "tricks" that make it easier to control the web application from one spot, rather than scattered across the codebase (for ex. using HTML templates, naming the page that correponds with the URL). I coded along with the example, and now I have one more app in my example project that can display a list of tasks as well as add tasks, all for unique sessions (due to Django tables!). I'll be ready to start Project 1 tomorrow after my last final!
+
+## Day 7: March 18th, 2023
 
 Today, I worked through CS50's Django week. I've just been watching the lecture and I'm about 1 hour in, but I've already learned so much about making dynamic websites that I can host on my local computer. It's so cool that I can implement logic/variables in my HTML file with the Python files that are generated for me with Django. I didn't expect Django to be so beginner friendly, but it's a nice surprise! It feels like I'm "automating" my website creation process, rather than doing it manually through static webpages.
 
