@@ -1,5 +1,9 @@
 [Week 1](#day-1-march-12th-2023)
 
+## Day 9: March 20th, 2023
+
+Made some progress with Project 1 today, up until implementing several search functions. Setting the Django project up definitely requires some practice; even after going through the lecture and following along with every step, I still found myself wondering what commands I needed to use, as well as how I should use certain Django features. There are a **lot** of Django modules that I need to remember to use. After overcoming that initial barrier, however, I've successfully implemented the ability to visit a specific "wiki" page with a url pattern, as well as implement a search function for an existing wiki page. I'll try to finish the project by tomorrow, it seems pretty doable! Also, all of my finals are done, so I'll definitely have a lot of time to dedicate to coding during my break :)
+
 ## Day 8: March 19th, 2023
 
 I finally finished the Django lecture! During the rest of the lecture video, I learned more about Django logic within HTML files, as well as several "tricks" that make it easier to control the web application from one spot, rather than scattered across the codebase (for ex. using HTML templates, naming the page that correponds with the URL). I coded along with the example, and now I have one more app in my example project that can display a list of tasks as well as add tasks, all for unique sessions (due to Django tables!). I'll be ready to start Project 1 tomorrow after my last final!
