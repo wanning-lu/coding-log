@@ -1,4 +1,23 @@
+# Coding Log
+
 [Week 1](#day-1-march-12th-2023)
+[Week 2](#day-8-march-19th-2023)
+
+## Day 12: March 23rd, 2023
+
+I worked on a mix of TOP and CS50w today, starting with coding along with the example project for the lecture. I didn't go too deep into the lecture (about halfway in so far), but I've learned how to set up a database inside Django, specifically models.py along with some Django commands to create it. As for TOP,
+I started working through their JS path, which begins with some Intermediate
+HTML/CSS. Although some of it was repeat knowledge, I did learn about Emmet and CSS functions/variables which was really useful. I'm almost at the project (sign-up form) but I've gone through about *12* lessons so I think that's something for tomorrow.
+
+## Day 11: March 22nd, 2023
+
+Today, I finished [Project 1](https://github.com/wanning-lu/cs50w-projects/tree/main/project1_wiki) by implementing the "random search" function on the sidebar. It was pretty simple, as all I needed to do was import choice() from random, which allowed me to choose a pseudo?random element from the list of entries every
+time. After that, I got started on the 4th lecture, which dove into databases; I watched the entirety of the SQL section, which gave some examples in SQLite on how to create a table and insert/join/delete/search data. The next section will
+be on how to work with SQL through Django, so I'm looking forward to that!
+
+## Day 10: March 21st, 2023
+
+TBH, I didn't do much coding today. I was focused on packing and moving back, and the entire day has been dedicated to meeting up with familiar faces.
 
 ## Day 9: March 20th, 2023
 
@@ -7,6 +26,8 @@ Made some progress with Project 1 today, up until implementing several search fu
 ## Day 8: March 19th, 2023
 
 I finally finished the Django lecture! During the rest of the lecture video, I learned more about Django logic within HTML files, as well as several "tricks" that make it easier to control the web application from one spot, rather than scattered across the codebase (for ex. using HTML templates, naming the page that correponds with the URL). I coded along with the example, and now I have one more app in my example project that can display a list of tasks as well as add tasks, all for unique sessions (due to Django tables!). I'll be ready to start Project 1 tomorrow after my last final!
+
+[To the top](#coding-log)
 
 ## Day 7: March 18th, 2023
 
@@ -35,3 +56,5 @@ I started working on the next TOP project, which is about making a calculator. I
 ## Day 1: March 12th, 2023
 
 I've been working on [The Odin Project](https://www.theodinproject.com/) for a bit now, on and off, here and there. I've been skimming their "Foundations" course since I already know some fundamentals of web development, such as basic OOP and HTML/CSS. I worked on one [project](https://github.com/wanning-lu/top-landingpage) prior to the creation of this log, which exercised my ability at using flexbox. Flexbox is absolutely amazing; I feel like if I had known that this existed in my past projects, I wouldn't have wasted so much time fiddling with different settings. Plus, they would all be somewhat responsive. Anyway, I worked on some basic JS today along with some DOM manipulation. Just for fun, I also tried making my HTML button look a little nicer. Here's [the project](https://github.com/wanning-lu/top-etchasketch), where I created a rudimentary etch-a-sketch composed mostly of JS. This hour of code felt pretty substantial. I feel like I'm genuinely going somewhere this time with web development, rather than floating around looking for resources. If you're still debating whether you should try out TOP, you should just give one of their projects a shot.
+
+[To the top](#coding-log)
