@@ -3,6 +3,10 @@
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
 
+## Day 13: March 24th, 2023
+
+Today, I went through the last 5 lessons in TOP before going on to the forms project. There was quite a bit of content on HTML forms, which I didn't expect; validations and styling were some of the main things that I learned. Additionally, I feel like I finally understand how they work and send information, which I didn't before even when creating forms for FCC/CS50w. I've only created the barebones of the form project as of now, with all of the HTML completed (thanks Emmet!) and some styling applied so it somewhat matches the image.
+
 ## Day 12: March 23rd, 2023
 
 I worked on a mix of TOP and CS50w today, starting with coding along with the example project for the lecture. I didn't go too deep into the lecture (about halfway in so far), but I've learned how to set up a database inside Django, specifically models.py along with some Django commands to create it. As for TOP,
