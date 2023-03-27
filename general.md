@@ -3,6 +3,16 @@
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
 
+## Day 15: March 26th, 2023
+
+Wow, today was tiring. I finished the Django models lecture, where I learned about some more powerful tools (such as ManyToMany), as well as some login authentication! Django abstracts these details so much that it can be as easy as one method of `login(request, request.user)` which is pretty crazy. Now for the major progress: I finished the [forms project](https://github.com/wanning-lu/top-signupform) for TOP! I feel like a big part of it was designing...more than the actual implementation of the forms...but I did use a bit of JS to implement a "password confirmation" feature. It's tricky switching between Python and JS, because I was held up for a bit before I realized I wasn't typing `let` before my variable declarations.
+
+[To the top](#coding-log)
+
+## Day 14: March 25th, 2023
+
+Still slogging through the week 4 lecture for the CS50w series; I followed along with about half of the Django section, which was about creating and manipulating databases in Django. I first learned how to create database models in `models.py` and migrate any changes to the actual database. Then, I used the Python shell to make some changes to the databases manually by inserting/selecting/deleting data. However, later on, I learned about how Django admin can take care of most of that action within the shell. Additionally, I used the power of relational databases by using models.ForeignKey, which allowed me to link an object from one database to the cell of another.
+
 ## Day 13: March 24th, 2023
 
 Today, I went through the last 5 lessons in TOP before going on to the forms project. There was quite a bit of content on HTML forms, which I didn't expect; validations and styling were some of the main things that I learned. Additionally, I feel like I finally understand how they work and send information, which I didn't before even when creating forms for FCC/CS50w. I've only created the barebones of the form project as of now, with all of the HTML completed (thanks Emmet!) and some styling applied so it somewhat matches the image.
