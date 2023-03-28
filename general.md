@@ -3,9 +3,13 @@
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
 
+## Day 16: March 27th, 2023
+
+Just finished the CSS grids section, but wow does that end project look intimidating! At first glance I would assume the UI belonged to that of a legitimate, professional app. I guess my understanding of grid so far has been pretty limited. I'll be starting the barebones of the project today (probably just using only HTML for now) and then hashing out the details later.
+
 ## Day 15: March 26th, 2023
 
-Wow, today was tiring. I finished the Django models lecture, where I learned about some more powerful tools (such as ManyToMany), as well as some login authentication! Django abstracts these details so much that it can be as easy as one method of `login(request, request.user)` which is pretty crazy. Now for the major progress: I finished the [forms project](https://github.com/wanning-lu/top-signupform) for TOP! I feel like a big part of it was designing...more than the actual implementation of the forms...but I did use a bit of JS to implement a "password confirmation" feature. It's tricky switching between Python and JS, because I was held up for a bit before I realized I wasn't typing `let` before my variable declarations.
+Wow, today was tiring. I finished the Django models lecture, where I learned about some more powerful tools (such as ManyToMany), as well as some login authentication! Django abstracts these details so much that it can be as easy as one method of `login(request, request.user)` which is pretty crazy. Now for the major progress: I finished the [forms project](https://github.com/wanning-lu/top-signupform) for TOP! I feel like a big part of it was designing...more than the actual implementation of the forms...but I did use a bit of JS to implement a "password confirmation" feature. It's tricky switching between Python and JS, because I was held up for a bit before I realized I wasn't typing `let` before my variable declarations. I also moved on to the CSS grids section...which now I'm about halfway through.
 
 [To the top](#coding-log)
 
