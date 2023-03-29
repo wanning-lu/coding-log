@@ -3,6 +3,10 @@
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
 
+## Day 17: March 28th, 2023
+
+I started on the CSS for the project, and although I've made a pretty decent layout so far, I feel like I'm still somehow hard-coding it (for desktop, I suppose), even while using relative units (`fr`, for example). I'm actually almost done with the barebones layout, I just need to style the last section (major events + connections).
+
 ## Day 16: March 27th, 2023
 
 Just finished the CSS grids section, but wow does that end project look intimidating! At first glance I would assume the UI belonged to that of a legitimate, professional app. I guess my understanding of grid so far has been pretty limited. I'll be starting the barebones of the project today (probably just using only HTML for now) and then hashing out the details later.
