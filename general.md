@@ -3,6 +3,10 @@
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
 
+## Day 18: March 29th, 2023
+
+Working with anything other than a `div` block always feels like such a pain; I've finished the sidebar for the dashboard, but why was it so hard to put in the SVG?! On another hand, I created the models for the Commerce project (for CS50), and I've started trying to lay down the grounds for what comes next. All of the projects I've made so far with CS50w feel like legitimate applications, it's really exciting!
+
 ## Day 17: March 28th, 2023
 
 I started on the CSS for the project, and although I've made a pretty decent layout so far, I feel like I'm still somehow hard-coding it (for desktop, I suppose), even while using relative units (`fr`, for example). I'm actually almost done with the barebones layout, I just need to style the last section (major events + connections).
