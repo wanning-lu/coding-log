@@ -3,6 +3,10 @@
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
 
+## Day 19: March 30th, 2023
+
+Continued working on the CS50w project for a bit, but I mostly just created the form for creating a new listing as well as get stuck on the `login_required` decorator :/
+
 ## Day 18: March 29th, 2023
 
 Working with anything other than a `div` block always feels like such a pain; I've finished the sidebar for the dashboard, but why was it so hard to put in the SVG?! On another hand, I created the models for the Commerce project (for CS50), and I've started trying to lay down the grounds for what comes next. All of the projects I've made so far with CS50w feel like legitimate applications, it's really exciting!
