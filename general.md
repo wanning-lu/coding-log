@@ -5,7 +5,7 @@
 
 ## Day 20: March 31st, 2023
 
-Ok, even though I *technically* finished the [dashboard project](https://github.com/wanning-lu/the-odin-project/tree/master/dashboard) on April 1st, I was up at 3AM doing it. To me, I think that counts as being part of day 20. Plus, it's even a disadvantage to me since I already did some coding beforehand, which was implementing the actual listing creation function and formatting the listing UI for it (for the Django project). 
+Ok, even though I _technically_ finished the [dashboard project](https://github.com/wanning-lu/the-odin-project/tree/master/dashboard) on April 1st, I was up at 3AM doing it. To me, I think that counts as being part of day 20. Plus, it's even a disadvantage to me since I already did some coding beforehand, which was implementing the actual listing creation function and formatting the listing UI for it (for the Django project).
 
 I think one thing I regret about the dashboard project is how messy my HTML and CSS turned out. Sure, I saved some time using Emmet, but I don't think I really thought out my HTML layout. For example, I only put classes with incrementing numbers for each child element, which I should've used a universal class for and assigned each element with a unique ID. I guess that's something to keep in mind going ahead.
 
@@ -43,7 +43,7 @@ Today, I went through the last 5 lessons in TOP before going on to the forms pro
 
 I worked on a mix of TOP and CS50w today, starting with coding along with the example project for the lecture. I didn't go too deep into the lecture (about halfway in so far), but I've learned how to set up a database inside Django, specifically models.py along with some Django commands to create it. As for TOP,
 I started working through their JS path, which begins with some Intermediate
-HTML/CSS. Although some of it was repeat knowledge, I did learn about Emmet and CSS functions/variables which was really useful. I'm almost at the project (sign-up form) but I've gone through about *12* lessons so I think that's something for tomorrow.
+HTML/CSS. Although some of it was repeat knowledge, I did learn about Emmet and CSS functions/variables which was really useful. I'm almost at the project (sign-up form) but I've gone through about _12_ lessons so I think that's something for tomorrow.
 
 ## Day 11: March 22nd, 2023
 
