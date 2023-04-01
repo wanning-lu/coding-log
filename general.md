@@ -3,6 +3,12 @@
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
 
+## Day 20: March 31st, 2023
+
+Ok, even though I *technically* finished the [dashboard project](https://github.com/wanning-lu/the-odin-project/tree/master/dashboard) on April 1st, I was up at 3AM doing it. To me, I think that counts as being part of day 20. Plus, it's even a disadvantage to me since I already did some coding beforehand, which was implementing the actual listing creation function and formatting the listing UI for it (for the Django project). 
+
+I think one thing I regret about the dashboard project is how messy my HTML and CSS turned out. Sure, I saved some time using Emmet, but I don't think I really thought out my HTML layout. For example, I only put classes with incrementing numbers for each child element, which I should've used a universal class for and assigned each element with a unique ID. I guess that's something to keep in mind going ahead.
+
 ## Day 19: March 30th, 2023
 
 Continued working on the CS50w project for a bit, but I mostly just created the form for creating a new listing as well as get stuck on the `login_required` decorator :/
@@ -21,7 +27,7 @@ Just finished the CSS grids section, but wow does that end project look intimida
 
 ## Day 15: March 26th, 2023
 
-Wow, today was tiring. I finished the Django models lecture, where I learned about some more powerful tools (such as ManyToMany), as well as some login authentication! Django abstracts these details so much that it can be as easy as one method of `login(request, request.user)` which is pretty crazy. Now for the major progress: I finished the [forms project](https://github.com/wanning-lu/top-signupform) for TOP! I feel like a big part of it was designing...more than the actual implementation of the forms...but I did use a bit of JS to implement a "password confirmation" feature. It's tricky switching between Python and JS, because I was held up for a bit before I realized I wasn't typing `let` before my variable declarations. I also moved on to the CSS grids section...which now I'm about halfway through.
+Wow, today was tiring. I finished the Django models lecture, where I learned about some more powerful tools (such as ManyToMany), as well as some login authentication! Django abstracts these details so much that it can be as easy as one method of `login(request, request.user)` which is pretty crazy. Now for the major progress: I finished the [forms project](https://github.com/wanning-lu/the-odin-project/tree/master/sign-up-form) for TOP! I feel like a big part of it was designing...more than the actual implementation of the forms...but I did use a bit of JS to implement a "password confirmation" feature. It's tricky switching between Python and JS, because I was held up for a bit before I realized I wasn't typing `let` before my variable declarations. I also moved on to the CSS grids section...which now I'm about halfway through.
 
 [To the top](#coding-log)
 
@@ -85,6 +91,6 @@ I started working on the next TOP project, which is about making a calculator. I
 
 ## Day 1: March 12th, 2023
 
-I've been working on [The Odin Project](https://www.theodinproject.com/) for a bit now, on and off, here and there. I've been skimming their "Foundations" course since I already know some fundamentals of web development, such as basic OOP and HTML/CSS. I worked on one [project](https://github.com/wanning-lu/top-landingpage) prior to the creation of this log, which exercised my ability at using flexbox. Flexbox is absolutely amazing; I feel like if I had known that this existed in my past projects, I wouldn't have wasted so much time fiddling with different settings. Plus, they would all be somewhat responsive. Anyway, I worked on some basic JS today along with some DOM manipulation. Just for fun, I also tried making my HTML button look a little nicer. Here's [the project](https://github.com/wanning-lu/top-etchasketch), where I created a rudimentary etch-a-sketch composed mostly of JS. This hour of code felt pretty substantial. I feel like I'm genuinely going somewhere this time with web development, rather than floating around looking for resources. If you're still debating whether you should try out TOP, you should just give one of their projects a shot.
+I've been working on [The Odin Project](https://www.theodinproject.com/) for a bit now, on and off, here and there. I've been skimming their "Foundations" course since I already know some fundamentals of web development, such as basic OOP and HTML/CSS. I worked on one [project](https://github.com/wanning-lu/the-odin-project/tree/master/landing-page) prior to the creation of this log, which exercised my ability at using flexbox. Flexbox is absolutely amazing; I feel like if I had known that this existed in my past projects, I wouldn't have wasted so much time fiddling with different settings. Plus, they would all be somewhat responsive. Anyway, I worked on some basic JS today along with some DOM manipulation. Just for fun, I also tried making my HTML button look a little nicer. Here's [the project](https://github.com/wanning-lu/the-odin-project/tree/master/etch-a-sketch), where I created a rudimentary etch-a-sketch composed mostly of JS. This hour of code felt pretty substantial. I feel like I'm genuinely going somewhere this time with web development, rather than floating around looking for resources. If you're still debating whether you should try out TOP, you should just give one of their projects a shot.
 
 [To the top](#coding-log)
