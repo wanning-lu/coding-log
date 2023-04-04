@@ -3,6 +3,10 @@
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
 
+## null: April 1st - 3rd, 2023
+
+Not a happy update, but a lots been happening in the past 3 days. I celebrated my birthday and moved back to my dorm all during that span of time, so I haven't been focusing too much on my coding progress. I do plan on getting back into it today, however!
+
 ## Day 20: March 31st, 2023
 
 Ok, even though I _technically_ finished the [dashboard project](https://github.com/wanning-lu/the-odin-project/tree/master/dashboard) on April 1st, I was up at 3AM doing it. To me, I think that counts as being part of day 20. Plus, it's even a disadvantage to me since I already did some coding beforehand, which was implementing the actual listing creation function and formatting the listing UI for it (for the Django project).
