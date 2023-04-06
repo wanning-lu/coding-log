@@ -3,6 +3,14 @@
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
 
+## Day 22: April 5th, 2023
+
+I think I made some good progress today! I figured out the CSS for the active listings (which was quite simple with Flexbox, ty Flexbox). Afterwards, I was just figuring out the logistics of implementing the other aspects, including the watchlist, creating new bids, closing a listing, and comments. I mostly got the watchlist to work, including the button to add/remove it from a watchlist. I just have to implement the watchlist page for each user. Hopefully I can finish this project by tomorrow.
+
+## Day 21: April 4th, 2023
+
+I mostly just worked on the CS50 project today. I fixed my mistake of putting the entire listing on the active listings (too much detail), and made a listing page for each individual listing. I've left off on creating the HTML/CSS for the active listings page, which I'll work on tomorrow.
+
 ## null: April 1st - 3rd, 2023
 
 Not a happy update, but a lots been happening in the past 3 days. I celebrated my birthday and moved back to my dorm all during that span of time, so I haven't been focusing too much on my coding progress. I do plan on getting back into it today, however!
