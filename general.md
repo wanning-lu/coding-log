@@ -2,6 +2,7 @@
 
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
+[Week 3](#day-15-march-26th-2023)
 
 ## Day 23: April 6th, 2023
 
