@@ -3,6 +3,10 @@
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
 
+## Day 23: April 6th, 2023
+
+_Wow_, finishing the commerce project was a marathon I don't feel like I was prepared for. Every minor bug that caused me to go on a 10 minute hunt through Stack Overflow just drained my motivation over and over, but I FINALLY finished this project! I can't imagine having to take this class normally in a school semester/quarter, it just seems rough. My code was definitely very disorganized, as well as repeated, which is something I regret. I think I also need to add the README files to all the projects I've done for CS50w so far, just to improve my documentation and review what I did for the project. But congrats to me! I guess I'll be starting on the week 5 lecture tomorrow.
+
 ## Day 22: April 5th, 2023
 
 I think I made some good progress today! I figured out the CSS for the active listings (which was quite simple with Flexbox, ty Flexbox). Afterwards, I was just figuring out the logistics of implementing the other aspects, including the watchlist, creating new bids, closing a listing, and comments. I mostly got the watchlist to work, including the button to add/remove it from a watchlist. I just have to implement the watchlist page for each user. Hopefully I can finish this project by tomorrow.
