@@ -4,6 +4,14 @@
 [Week 2](#day-8-march-19th-2023)
 [Week 3](#day-15-march-26th-2023)
 
+## Day 25: April 8th, 2023
+
+Today I was working a bit on the design patterns section of TOP, focusing first on the object-focused design pattern. I've read all the material and I think I'm around halfway through the project (it's not terribly complex nor long) so I'm hoping to finish this project tomorrow and get started on the 3rd CS50w project!
+
+## Day 24: April 7th, 2023
+
+Didn't do too much actual coding today, but I updated all of the README files for my CS50w projects, since I think it's good to get some practice in for documenting my work. I'll be trying to refine my documentation as I go; so far I'm including not only the functionalities of my projects but also the learning outcomes, which I believe will be helpful for reviewing concepts later on.
+
 ## Day 23: April 6th, 2023
 
 _Wow_, finishing the commerce project was a marathon I don't feel like I was prepared for. Every minor bug that caused me to go on a 10 minute hunt through Stack Overflow just drained my motivation over and over, but I FINALLY finished this project! I can't imagine having to take this class normally in a school semester/quarter, it just seems rough. My code was definitely very disorganized, as well as repeated, which is something I regret. I think I also need to add the README files to all the projects I've done for CS50w so far, just to improve my documentation and review what I did for the project. But congrats to me! I guess I'll be starting on the week 5 lecture tomorrow.
