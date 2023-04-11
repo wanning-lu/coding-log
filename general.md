@@ -4,6 +4,10 @@
 [Week 2](#day-8-march-19th-2023)
 [Week 3](#day-15-march-26th-2023)
 
+## Day 26: April 9th, 2023
+
+This CS50w project has so far been significantly easier than the second; I'm already halfway through and the main learning outcome of this project has mostly been to connect the frontend to the backend through the usage of APIs. The project came preloaded with some APIs already defined in the `views.py` and `urls.py` of the app, so the project was focused more around creating event listeners for HTML elements and sending requests to the URLs. I'm starting to feel somewhat confident with my JavaScript skills with this project and the previous TOP projects!
+
 ## Day 25: April 8th, 2023
 
 Today I was working a bit on the design patterns section of TOP, focusing first on the object-focused design pattern. I've read all the material and I think I'm around halfway through the project (it's not terribly complex nor long) so I'm hoping to finish this project tomorrow and get started on the 3rd CS50w project!
