@@ -3,6 +3,15 @@
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
 [Week 3](#day-15-march-26th-2023)
+[Week 4](#day-22-april-5th-2023)
+
+## Day 28: April 11th, 2023
+
+I finished the 7th lecture today as promised, and I learned about some tools like Selenium (testing for JS in Django), unittest (in Python), and Docker (which allows for the standardization of packages/environments/etc). Haven't done much actual coding today but I will definitely get started on the fourth project tomorrow.
+
+## Day 27: April 10th, 2023
+
+Finished [the third project](https://github.com/wanning-lu/cs50w-projects/tree/main/project3_mail)! This one was definitely significantly easier; all I had to do was implement an archive feature (which was pretty easy w/ a PUT request) and allow for users to reply to the email (which was accomplished by fetching the email information and prefilling the input fields accordingly with `.value`). I'll be watching the second to last lecture of CS50w tomorrow, which focuses on testing + CI/CD.
 
 ## Day 26: April 9th, 2023
 
@@ -23,6 +32,8 @@ _Wow_, finishing the commerce project was a marathon I don't feel like I was pre
 ## Day 22: April 5th, 2023
 
 I think I made some good progress today! I figured out the CSS for the active listings (which was quite simple with Flexbox, ty Flexbox). Afterwards, I was just figuring out the logistics of implementing the other aspects, including the watchlist, creating new bids, closing a listing, and comments. I mostly got the watchlist to work, including the button to add/remove it from a watchlist. I just have to implement the watchlist page for each user. Hopefully I can finish this project by tomorrow.
+
+[To the top](#coding-log)
 
 ## Day 21: April 4th, 2023
 
