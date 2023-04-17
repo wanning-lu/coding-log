@@ -4,6 +4,29 @@
 [Week 2](#day-8-march-19th-2023)
 [Week 3](#day-15-march-26th-2023)
 [Week 4](#day-22-april-5th-2023)
+[Week 5](#day-29-april-12th-2023)
+
+## Day 32: April 16th, 2023
+
+So, I figured it out, but I think it was really dumb imo. The `div` container for my image had a minimum height that was automatically set to `auto`, which is why my images always kept overflowing the book container. I had to set it to `0`, and of course the layout started working again. Vertical layout is such a pain !!! On another note, I spent quite a bit of time styling the page...it looks OK, I guess. I still need to find out a way to code and document more efficiently. Surely there's a guide to this somewhere on the internet, right?
+
+## Day 31: April 15th, 2023
+
+I started pivoting from working on CS50w back to The Odin Project–surprisingly, it wasn't that hard to get back into working on the library project. Since CS50w also had JS content, it wasn't very difficult to get back into coding in JS. Also, TOP is conceptually easier than CS50w atm; it's more like a DFS into front-end than CS50w, which is more like a BFS into full stack development (_wink wink nudge nudge_). I managed to create the cards and implement a functionality for adding a new book, but layout is messing me up again...darn images.
+
+## null: April 14th, 2023
+
+Today was not a good day. It was the due date for a lot of my assignments, meaning I didn't really have time to focus on my coding projects.
+
+## Day 30: April 13th, 2023
+
+God, today was just a day of _debugging_. Honestly, it felt like I had a mental block all throughout my coding session; I took the entire time to debug the follow button + the feature, and in the end, it boiled down to a few syntactical errors that I made while writing my `urls.py` and API. At least I got it done!
+
+## Day 29: April 12th, 2023
+
+I started the fourth project today! Conceptually, it was very very similar to commerce, which I found pretty surprising. I worked on it until I implemented features to view all posts, create posts, and visit a profile page. I left off on implementing the follow feature; for that, I'm planning to create my own API with Django and using it with JS.
+
+[To the top](#coding-log)
 
 ## Day 28: April 11th, 2023
 
