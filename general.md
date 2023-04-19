@@ -6,6 +6,14 @@
 [Week 4](#day-22-april-5th-2023)
 [Week 5](#day-29-april-12th-2023)
 
+## Day 33: April 18th, 2023
+
+Today was less of a coding day and more of a "watch a CS50w lecture" day. I watched the last lecture of CS50w, which was about scalability (figuring out how to scale up your web apps so that they can accommodate multiple users) as well as identifying security vulnerabilities in multiple aspects of your web app (such as anchor tags in HTML, SQL injections, etc.). I've decided not to finish the CS50w project since it doesn't incorporate much from the recent lectures and seems like a rehash of the commerce project.
+
+## null: April 17th, 2023
+
+I'm getting sort of sloppy nowadays :P I hope that I can at least keep coding consistently for the next week.
+
 ## Day 32: April 16th, 2023
 
 So, I figured it out, but I think it was really dumb imo. The `div` container for my image had a minimum height that was automatically set to `auto`, which is why my images always kept overflowing the book container. I had to set it to `0`, and of course the layout started working again. Vertical layout is such a pain !!! On another note, I spent quite a bit of time styling the page...it looks OK, I guess. I still need to find out a way to code and document more efficiently. Surely there's a guide to this somewhere on the internet, right?
