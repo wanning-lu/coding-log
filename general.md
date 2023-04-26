@@ -6,6 +6,22 @@
 [Week 4](#day-22-april-5th-2023)
 [Week 5](#day-29-april-12th-2023)
 
+## Day 36: April 24th, 2023
+
+Progress made today! I completed the [Tic Tac Toe](https://github.com/wanning-lu/the-odin-project/tree/master/tic-tac-toe) project since I finally finished implementing the win condition. I think I'm getting really comfortable with the organization of my code as well as documentation. In addition, I'll probably stop adding images to my READMEs and try to add GIFs/simple explanations if possible.
+
+## null: April 21st-April 23rd, 2023
+
+To be honest, not much was done...I tried exploring a lot more out of my bounds, such as with Linux and AI. They have a higher barrier of entry imo, due to the level of math needed w/ AI and the commitment to install any Linux distribution. That's about it from me though...
+
+## Day 35: April 20th, 2023
+
+Started the Tic Tac Toe project today! Honestly, it's a lot. I had to plan everything out on my iPad beforehand (such as the game logic, board logic, down to the individual cells) so that I could understand the layout of my project. I think I got it down, however! I implemented a lot of the project today and I actually managed to finish a lot of what was necesssary, up until the game logic. I borrowed a lot of the logic from the Odin page "Building a house from the inside out", but I created my own website design, which, to be honest, was not terribly complicated.
+
+## Day 34: April 19th, 2023
+
+Decided to get back on the Odin track! Today was more of a reading day, where I learned about factory functions and modules. Honestly, it makes a lot more sense than constructors, but I really feel like Java classes make a lot more sense than...JS. I'll start the project tomorrow.
+
 ## Day 33: April 18th, 2023
 
 Today was less of a coding day and more of a "watch a CS50w lecture" day. I watched the last lecture of CS50w, which was about scalability (figuring out how to scale up your web apps so that they can accommodate multiple users) as well as identifying security vulnerabilities in multiple aspects of your web app (such as anchor tags in HTML, SQL injections, etc.). I've decided not to finish the CS50w project since it doesn't incorporate much from the recent lectures and seems like a rehash of the commerce project.
