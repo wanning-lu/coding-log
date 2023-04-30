@@ -6,6 +6,16 @@
 [Week 4](#day-22-april-5th-2023)
 [Week 5](#day-29-april-12th-2023)
 
+## null: April 27th-29th, 2023
+
+## Day 38: April 26th, 2023
+
+Started working on TOP restaurant project.
+
+## Day 37: April 25th, 2023
+
+These updates might be a little more short since I don't think there's a need to talk too much about what I've done–it can be summarized into succinct phrases and sentences. Finished TOP ES6 modules + webpack readings.
+
 ## Day 36: April 24th, 2023
 
 Progress made today! I completed the [Tic Tac Toe](https://github.com/wanning-lu/the-odin-project/tree/master/tic-tac-toe) project since I finally finished implementing the win condition. I think I'm getting really comfortable with the organization of my code as well as documentation. In addition, I'll probably stop adding images to my READMEs and try to add GIFs/simple explanations if possible.
