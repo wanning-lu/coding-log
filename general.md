@@ -1,12 +1,17 @@
 # Coding Log
 
+**OLD**
 [Week 1](#day-1-march-12th-2023)
 [Week 2](#day-8-march-19th-2023)
 [Week 3](#day-15-march-26th-2023)
 [Week 4](#day-22-april-5th-2023)
 [Week 5](#day-29-april-12th-2023)
 
-## null: April 27th-29th, 2023
+## Day 1: August 31st, 2023
+
+I haven't been doing too well. On the bright side...it's only been 4 months, and not 4 years. That's alright, isn't it?
+
+Well, I took a look at where I left off for TOP. Truthfully, I felt a little lost and overwhelmed, as well as demotivated. I don't even know what kind of projects I want to make. Maybe I'll simply jump into making a project, rather than prepping myself and continuously learning for when I do make my own project. But it's good to start this again.
 
 ## Day 38: April 26th, 2023
 
