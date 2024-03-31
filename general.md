@@ -1,11 +1,18 @@
 # Coding Log
 
-**OLD**
-[Week 1](#day-1-march-12th-2023)
-[Week 2](#day-8-march-19th-2023)
-[Week 3](#day-15-march-26th-2023)
-[Week 4](#day-22-april-5th-2023)
+**CURRENT**
+[Week 1]
+
+**OLD**\
+[Week 1](#day-1-march-12th-2023)\
+[Week 2](#day-8-march-19th-2023)\
+[Week 3](#day-15-march-26th-2023)\
+[Week 4](#day-22-april-5th-2023)\
 [Week 5](#day-29-april-12th-2023)
+
+## Day 1: March 30th, 2023
+
+We start again...this time, with React and Next.js! I've been letting the ideas simmer in my head for too long, so I thought it was time to learn a tech stack that would properly accommodate what I actually want to build. I went through the React tutorial a few days ago, and I wrote down what I learned (privately, in a markdown file), and I'm going through the Next.js tutorial now. If you're curious, all of the tutorials I'm learning from is on the official [Next.js site](https://nextjs.org/learn).
 
 ## Day 1: August 31st, 2023
 
