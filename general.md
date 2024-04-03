@@ -1,6 +1,6 @@
 # Coding Log
 
-**CURRENT**
+**CURRENT**\
 [Week 1](#day-1-march-30th-2024)
 
 **OLD**\
@@ -9,6 +9,14 @@
 [Week 3](#day-15-march-26th-2023)\
 [Week 4](#day-22-april-5th-2023)\
 [Week 5](#day-29-april-12th-2023)
+
+## Day 3: April 2nd, 2024
+
+Today, I mainly did some database/data fetching. The core takeaways were that data fetching doesn't rely on the use of an API layer, at least server side. You can just query your database on the server and do some direct calls using SQL to populate your components with the data. Also, yes, I skipped April 1st. It was my birthday!
+
+## Day 2: March 31st, 2024
+
+Did a little more of the Next.js tutorial; learned a lot about how Next/React components just make web design so much smoother. For example, the nitty gritty behind image and font optimization is taken care of you, so you don't have to worry about responsiveness, fonts being loaded client-side, etc... Links are nice as well, since they preserve the components that don't need to be re-rendered every time.
 
 ## Day 1: March 30th, 2024
 
