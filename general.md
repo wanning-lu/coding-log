@@ -10,6 +10,14 @@
 [Week 4](#day-22-april-5th-2023)\
 [Week 5](#day-29-april-12th-2023)
 
+## Day 5: April 7th, 2024
+
+So, I finally decided to dive into it. I learned how to crawl the web with Selenium! I realized that I felt more motivated about collecting the data than making the website first, so I've successfully pulled all the data from the UCSD degree planner on required courses for each major. I also started working on scraping data for details on each course (such as prerequisites and descriptions).
+
+## Day 4: April 5th, 2024
+
+The main focus of today was on static vs. dynamic pages, as well as how to load dynamic pages by using `<Suspense>` and streaming. There were also some useful APIs for searching and routing.
+
 ## Day 3: April 2nd, 2024
 
 Today, I mainly did some database/data fetching. The core takeaways were that data fetching doesn't rely on the use of an API layer, at least server side. You can just query your database on the server and do some direct calls using SQL to populate your components with the data. Also, yes, I skipped April 1st. It was my birthday!
