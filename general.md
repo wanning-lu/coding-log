@@ -10,6 +10,14 @@
 [Week 4](#day-22-april-5th-2023)\
 [Week 5](#day-29-april-12th-2023)
 
+## Day 7: April 11th, 2024
+
+Can't lie, the MLP is very frustrating...the training error values kept getting stuck at amounts that were too high for my liking. My advisor suggested methods like batching, so I'll be working on that, and perhaps implementing that for the LSTM we'll be working on.
+
+## Day 6: April 10th, 2024
+
+I've been focusing on my research project as of late–it's on rendering expressive musical timings, given the sheet music timings. I'm mainly working on the AI models, as well as processing the data (csv files with the timings). Just working on tweaking our MLP today.
+
 ## Day 5: April 7th, 2024
 
 So, I finally decided to dive into it. I learned how to crawl the web with Selenium! I realized that I felt more motivated about collecting the data than making the website first, so I've successfully pulled all the data from the UCSD degree planner on required courses for each major. I also started working on scraping data for details on each course (such as prerequisites and descriptions).
