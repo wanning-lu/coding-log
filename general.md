@@ -10,6 +10,22 @@
 [Week 4](#day-22-april-5th-2023)\
 [Week 5](#day-29-april-12th-2023)
 
+## Day ??: April 20th, 2024
+
+Ok, I'm not going to lie, this is hard to keep up with...but all you need to know is that progress is being made on the degree planner app!! I'm very excited.
+
+## Day 10: April 14th, 2024
+
+Today was a bit of a switch-up. I began working on a portfoliio website...but I would like to work on a cool personal website. Nothing much has been done yet for the portfolio page, I'm just using vanilla HTML/CSS at the moment.
+
+## Day 9: April 13th, 2024
+
+Still working on the scraper, it's looking pretty good so far :\) I'll probably publish this to Github and make an API out of it...
+
+## Day 8: April 12th, 2024
+
+Started working on the scraper again! This time, I'm tweaking it to scrape the course data from the publicly available course catalog. I've got the general logic down, but I just need to iron out the kinks and subtleties of the formats.
+
 ## Day 7: April 11th, 2024
 
 Can't lie, the MLP is very frustrating...the training error values kept getting stuck at amounts that were too high for my liking. My advisor suggested methods like batching, so I'll be working on that, and perhaps implementing that for the LSTM we'll be working on.
